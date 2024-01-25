@@ -1,0 +1,29 @@
+---
+name: VPP
+category: Networking
+description: vpp is a video processing pipeline library
+download_url: https://github.com/kidanger/vpp/releases
+works_on_arm: true
+supported_minimum_version:
+    version_number: v2.4.0
+    release_date: 24/10/2018
+ 
+ 
+optional_info:
+    homepage_url: https://github.com/kidanger/vpp
+    support_caveats:
+    alternative_options:
+    getting_started_resources:
+        arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/mellanox-card-on-arm-server-installing-mlnx-ofed  
+        partner_content: 
+        official_docs: 
+    arm_recommended_minimum_version:
+        version_number: 
+        release_date:
+ 
+ 
+optional_hidden_info:
+    release_notes__supported_minimum: 
+    release_notes__recommended_minimum: 
+    other_info: ARM64 architecture is not specifically mentioned in the release notes for vpp, and the binary for ARM64 is not available either. The only available file is the tar file. Installed grpc through pip and tested versions of vpp on the ARM64 N1 architecture and found that version v2.4.0 is the minimum version.
+---
