@@ -25,5 +25,5 @@ optional_info:
 optional_hidden_info:
     release_notes__supported_minimum: https://github.com/etcd-io/etcd/releases/tag/v3.2.11 
     release_notes__recommended_minimum: 
-    other_info: 
+    other_info: There are no release notes for the minimum version for ARM64, but binary for aarch64 Linux are published with each release starting from v3.2.11.
 ---
