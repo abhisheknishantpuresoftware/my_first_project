@@ -15,7 +15,7 @@ optional_info:
     alternative_options:
     getting_started_resources:
         arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/improve-etcd-performance-by-18-percent-by-deploying-on-aws-graviton2
-        partner_content: 
+        partner_content: https://aws.amazon.com/blogs/opensource/behind-the-scenes-on-aws-contributions-to-cloud-native-open-source-projects/
         official_docs: https://etcd.io/docs/v3.5/op-guide/supported-platform/
     arm_recommended_minimum_version:
         version_number: 
