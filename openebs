@@ -25,6 +25,6 @@ optional_info:
 optional_hidden_info:
     release_notes__supported_minimum: https://github.com/openebs/openebs/releases/tag/v2.3.0 
     release_notes__recommended_minimum: 
-    other_info: There are no release notes for the minimum version for ARM64, but aarch64-dvd.iso are published with each release starting from release 7.7.
+    other_info: Binary for aarch64 Linux are not published with releases, but in release notes of version v2.3.0 it is mentioned about ARM64 being added from this version.
  
 ---
