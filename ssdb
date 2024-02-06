@@ -1,7 +1,7 @@
 ---
 name: SSDB
 category: Databases - noSQL
-description: SSDB is a high performace key-value(key-string, key-zset, key-hashmap) NoSQL database, an alternative to Redis..
+description: SSDB is a high performace key-value(key-string, key-zset, key-hashmap) NoSQL database, an alternative to Redis.
 download_url: https://github.com/ideawu/ssdb/releases  
 works_on_arm: true
 supported_minimum_version:
