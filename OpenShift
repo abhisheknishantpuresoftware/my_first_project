@@ -1,7 +1,7 @@
 ---
 name: OpenShift
 category: Orchestration
-description: OpenShift orchestration automates the deployment, scaling, management, and monitoring of containerized applications, providing developers and operators with a powerful platform for building, deploying, and managing cloud-native applications at scale.
+description: OpenShift orchestration automates the deployment, scaling, management, and monitoring of containerized applications.
 download_url:  https://mirror.openshift.com/pub/openshift-v4/aarch64/clients/ocp/
 works_on_arm: true
 supported_minimum_version:
