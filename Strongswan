@@ -25,6 +25,6 @@ optional_info:
 optional_hidden_info:
     release_notes__supported_minimum: https://wiki.strongswan.org/projects/strongswan/wiki/Changelog58#Version-583
     release_notes__recommended_minimum: 
-    other_info: Binary for aarch64 Linux are not published with releases, but in release notes of version  it is mentioned about ARM64 being added from this version.
+    other_info: In release notes of version 5.8.3 ARM64 support is mentioned.
  
 ---
