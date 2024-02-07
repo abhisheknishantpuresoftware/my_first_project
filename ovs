@@ -25,6 +25,6 @@ optional_info:
 optional_hidden_info:
     release_notes__supported_minimum: 
     release_notes__recommended_minimum: 
-    other_info: Binary releases are not available for any platform (amd64, arm64, etc), nor support for ARM64 mentioned in the release notes. Tested by extracting and installing from zip and found from versin 2.13.0 it is supported on arm64.
+    other_info: No arm64 specific release notes are available. Installation and testing was done through tar file and found from versin 2.13.0 it is supported on arm64.
  
 ---
