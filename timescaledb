@@ -25,6 +25,6 @@ optional_info:
 optional_hidden_info:
     release_notes__supported_minimum: https://github.com/timescale/timescaledb/pull/4112
     release_notes__recommended_minimum: 
-    other_info: In release notes ARM64 is not mentioned and also binary releases are not available for any platform (amd64, arm64, etc), but after merging this [PR](https://github.com/timescale/timescaledb/pull/4112) ARM64 support is added from release v2.6.0. Tested by extracting and installing from zip.
+    other_info: No arm64 specific release notes are available. Installation and testing was done through tar file and found after merging this [PR](https://github.com/timescale/timescaledb/pull/4112) from version 1.9.7 it is supported on arm64.
  
 ---
